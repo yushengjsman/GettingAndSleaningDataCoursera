@@ -1,3 +1,4 @@
+# Please put this script in the UCI HAR Dataset folder
 library("dplyr")
 library("reshape2")
 # read all the data and merge them.
